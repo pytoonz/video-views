@@ -6,7 +6,7 @@
 import webbrowser
 
 # Open a specific URL in the default web browser
-webbrowser.open('')
+webbrowser.open('https://youtu.be/KwaVNBHCfqk?si=yWuXoAiyfvQcvoG1')
 
 # Alternatively, open the default homepage (no URL specified)
 # webbrowser.open()
